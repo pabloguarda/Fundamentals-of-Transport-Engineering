@@ -1,4 +1,4 @@
-grupo,obs,arc,period,dir,length,ff_tt,tt,ncyclists
+group,obs,arc,period,dir,length,ff_tt,tt,ncyclists
 2,1,2,1,1,140,20.21,27.91,2
 2,2,2,2,1,140,20.21,26.71,3
 2,3,2,3,1,140,20.21,20.41,4
